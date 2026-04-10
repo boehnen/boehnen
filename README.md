@@ -6,4 +6,4 @@
 
 🗺️ [ClipMap](https://clipmap.io) — Serverless geospatial export tool, zero backend, 70k+ tiles from 95GB OSM data
 
-🛰️ [SatLens](https://huggingface.co/spaces/boehnen/satlens) — Fine-tuned SegFormer for pixel-level land cover classification from aerial tiles
+🛰️ [SatLens](https://huggingface.co/spaces/boehnen/satlens) — Computer vision machine learning model for segmenting land class from satelite imagery
