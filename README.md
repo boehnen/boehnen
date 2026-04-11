@@ -1,4 +1,6 @@
-# Hey, I'm Justin 👋
+### Justin Boehnen `Software Engineer`
+
+I architect data pipelines that wrangle massive, messy data from the real world. I integrate AI and ML into workflows to improve efficiency and accuracy, from LLM-powered analysis to custom models that save hours of manual work.
 
 ### What I'm building
 🧠 [BrainGap](https://braingap.io) — Adaptive learning assessment using AI and item response theory  
